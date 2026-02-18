@@ -1,0 +1,7 @@
+{
+  "name": "G4S Auricular Delivery Manager",
+  "description": "A management system for tracking the delivery of earphones to security personnel, requiring photo verification of the handover and the signed delivery act.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
